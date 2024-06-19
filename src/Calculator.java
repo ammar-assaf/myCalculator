@@ -25,7 +25,7 @@ public class Calculator {
 
     public int sub()
     {
-        return n1/n2;
+        return n1 - n2;
     }
   
     public int sum()
