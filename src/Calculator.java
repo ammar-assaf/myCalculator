@@ -23,8 +23,14 @@ public class Calculator {
         this.n2 = n2;
     }
 
+    public int sub()
+    {
+        return n1/n2;
+    }
+  
     public int sum()
     {
         return n1 + n2;
+
     }
 }
